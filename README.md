@@ -6,8 +6,8 @@ Projet réalisé par Romane BARD, Vincent CORBAUX, Benjamin CHOMMAUX dans le cad
 - Cloner ce repository
 
 # Les fichiers notebooks
-- Le notebook MasterProject.ipynb contient tout le code lié à l'entrainement des 6 modèles sur la base de données UTKFace et contient aussi le code pour l'Ensemble Learning
-- Le notebook gnn_age_detection.ipynb contient le code lié au GNN, son architecture, le traitement des images input, et l'entrainement du modèle
+- Le notebook MasterProject contient tout le code lié à l'entrainement des 6 modèles sur la base de données UTKFace et contient aussi le code pour l'Ensemble Learning
+- Le notebook gnn_age_detection contient le code lié au GNN, son architecture, le traitement des images input, et l'entrainement du modèle
 - Le notebook training_classes contient l'entrainement du modèle de classification ainsi que la cascade de prédiction
 
 
