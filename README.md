@@ -4,6 +4,7 @@ Projet réalisé par Romane BARD, Vincent CORBAUX, Benjamin CHOMMAUX dans le cad
 
 # Pour utiliser ce projet
 - Cloner ce repository
+- Télécharger les dossiers trained_models et test_images présents sur le google drive en annexe
 
 # Les fichiers notebooks
 - Le notebook MasterProject contient tout le code lié à l'entrainement des 6 modèles sur la base de données UTKFace et contient aussi le code pour l'Ensemble Learning

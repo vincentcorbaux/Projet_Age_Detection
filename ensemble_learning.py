@@ -33,12 +33,12 @@ class Ensemble_Learning:
     def build():
         agedb_test_images_path = [f for f in glob.glob("test_images" + "/*.jpg", recursive=True)]
         trained_model_paths= [
-            "resnet_V3.keras",
-            "effnet_V3.keras",
-            "alexnet_V3.keras",
-            "vggnet_V2.keras",
-            "googlenet_V3.keras",
-            "CNN_V3.keras"
+            "trained_models/resnet_V3.keras",
+            "trained_models/effnet_V3.keras",
+            "trained_models/alexnet_V3.keras",
+            "trained_models/vggnet_V2.keras",
+            "trained_models/googlenet_V3.keras",
+            "trained_models/CNN_V3.keras"
         ]
 
         for model_path in trained_model_paths:
